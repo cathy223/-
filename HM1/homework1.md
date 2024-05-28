@@ -9,7 +9,7 @@ Homework 1
 conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.7 -c pytorch -c nvidia
 ```
 
-![c4b5c15e-920b-467f-addb-f862c3467c15](file:///C:/Users/cathy/Pictures/Typedown/c4b5c15e-920b-467f-addb-f862c3467c15.png) 
+<img title="" src="img1.png" alt="loading-ag-86" data-align="inline"> 
 
 #### 下载InternLM2-Chat-1.8B模型
 
@@ -72,5 +72,3 @@ while True:
 #### 效果如下
 
 ![066d92f2-bd02-407d-9af8-a7ab6aae5757](file:///C:/Users/cathy/Pictures/Typedown/066d92f2-bd02-407d-9af8-a7ab6aae5757.png)
-
-
