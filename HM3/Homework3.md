@@ -6,7 +6,7 @@
 
 #### RAG的工作原理
 
-<img title="" src="1.png" alt="loading-ag-152" style="zoom:67%;">
+<img title="" src="8.png" alt="da8fc9be-897c-43f0-a124-a1497cc87c28" style="zoom:67%;">
 
 <img title="" src="2.png" alt="loading-ag-154" style="zoom:80%;">
 
@@ -36,7 +36,7 @@ modular rag：多模态任务，对话系统
 
 ### RAG VS 微调
 
-<img title="" src="4.png" alt="loading-ag-158" style="zoom:67%;"><u></u>
+<img title="" src="10.png" alt="0469c674-783b-4cd1-97a7-245522997a62" style="zoom:67%;"><u></u>
 
 ### LLM模型优化方法比较
 
@@ -62,12 +62,12 @@ modular rag：多模态任务，对话系统
 
 通常使用点乘或者余弦距离的方法来计算相似度
 
-## 茴香豆的工作流<img title="" src="file:///C:/Users/cathy/Pictures/Typedown/da8fc9be-897c-43f0-a124-a1497cc87c28.png" alt="da8fc9be-897c-43f0-a124-a1497cc87c28" style="zoom:67%;" data-align="left">
+## 茴香豆的工作流<img title="" src="8.png" alt="loading-ag-152" style="zoom:67%;" data-align="left">
 
-<img src="file:///C:/Users/cathy/Pictures/Typedown/85933a02-8133-46b5-9ff6-7062d1aab40c.png" title="" alt="85933a02-8133-46b5-9ff6-7062d1aab40c" style="zoom:67%;">
+<img title="" src="9.png" alt="85933a02-8133-46b5-9ff6-7062d1aab40c" style="zoom:67%;">
 
 ## Homework
 
-<img title="" src="file:///C:/Users/cathy/Pictures/Typedown/0469c674-783b-4cd1-97a7-245522997a62.png" alt="0469c674-783b-4cd1-97a7-245522997a62" style="zoom:50%;">
+<img title="" src="10.png" alt="loading-ag-158" style="zoom:50%;">
 
-<img title="" src="file:///C:/Users/cathy/Pictures/Typedown/d4eef75a-6259-4629-801c-0ea83e279554.png" alt="d    4eef75a-6259-4629-801c-0ea83e279554" style="zoom:50%;">
+<img title="" src="11.png" alt="d    4eef75a-6259-4629-801c-0ea83e279554" style="zoom:50%;">
