@@ -200,7 +200,6 @@ ssh -CNg -L 6006:127.0.0.1:6006 root@ssh.intern-ai.org.cn -p 38374
   - -L `6006:127.0.0.1:6006`：这是本地端口转发的规则设置。
     
     - -L：指定本地端口转发。
-      
       格式为**本地端口:远程主机:远程端口**。
   
   - `root@ssh.intern-ai.org.cn`：指定要连接的远程服务器的用户和主机名
@@ -209,8 +208,6 @@ ssh -CNg -L 6006:127.0.0.1:6006 root@ssh.intern-ai.org.cn -p 38374
 
 ## homework2
 
-![b8cb8554-acfc-4f1e-940a-a781255e6a85](file:///C:/Users/cathy/Pictures/Typedown/b8cb8554-acfc-4f1e-940a-a781255e6a85.png)
-
-
+![loading-ag-276](八戒chat.png)
 
 

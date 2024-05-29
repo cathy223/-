@@ -6,9 +6,9 @@
 
 #### RAG的工作原理
 
-<img src="file:///C:/Users/cathy/Pictures/Typedown/644df3f5-c135-4ffc-944d-5523d0b84ea9.png" title="" alt="644df3f5-c135-4ffc-944d-5523d0b84ea9" style="zoom:67%;">
+<img title="" src="1.png" alt="loading-ag-152" style="zoom:67%;">
 
-<img title="" src="file:///C:/Users/cathy/Pictures/Typedown/672aac9a-36bb-490c-a556-2453ebd83f4a.png" alt="672aac9a-36bb-490c-a556-2453ebd83f4a" style="zoom:80%;">
+<img title="" src="2.png" alt="loading-ag-154" style="zoom:80%;">
 
 without rag： llm可能直接回复不知道，或者乱回答。
 
@@ -32,15 +32,15 @@ modular rag：多模态任务，对话系统
 
 最后一个方法是对大模型的优化
 
-<img title="" src="file:///C:/Users/cathy/Pictures/Typedown/ae515d31-d336-4f0d-9b67-84f0c12ea643.png" alt="ae515d31-d336-4f0d-9b67-84f0c12ea643" style="zoom:67%;">
+<img title="" src="3.png" alt="loading-ag-156" style="zoom:67%;">
 
 ### RAG VS 微调
 
-<img src="file:///C:/Users/cathy/Pictures/Typedown/69e11c6e-ee24-4ba1-b41c-449d3ed51888.png" title="" alt="69e11c6e-ee24-4ba1-b41c-449d3ed51888" style="zoom:67%;">
+<img title="" src="4.png" alt="loading-ag-158" style="zoom:67%;"><u></u>
 
 ### LLM模型优化方法比较
 
-<img src="file:///C:/Users/cathy/Pictures/Typedown/de785fea-624a-4dc5-b9b8-f19e6e065b20.png" title="" alt="de785fea-624a-4dc5-b9b8-f19e6e065b20" style="zoom:67%;">
+<img title="" src="5.png" alt="loading-ag-160" style="zoom:67%;">
 
 从两个方面对比： 任务对外部知识的需求，另一个是任务对模型适配度的需求
 
@@ -54,11 +54,11 @@ modular rag：多模态任务，对话系统
 
 ### RAG评估框架和基准测试
 
-<img src="file:///C:/Users/cathy/Pictures/Typedown/4c0d16fe-4e52-40b4-a83d-fa268273b1e3.png" title="" alt="4c0d16fe-4e52-40b4-a83d-fa268273b1e3" style="zoom:67%;">
+<img title="" src="6.png" alt="loading-ag-162" style="zoom:67%;">
 
 ### 什么是向量数据库（vector-db）
 
-<img title="" src="file:///C:/Users/cathy/Pictures/Typedown/2fa2b275-fbb7-4b47-9b9f-6d265f174ce3.png" alt="2fa2b275-fbb7-4b47-9b9f-6d265f174ce3" data-align="inline" style="zoom:67%;">
+<img title="" src="7.png" alt="loading-ag-164" data-align="inline" style="zoom:67%;">
 
 通常使用点乘或者余弦距离的方法来计算相似度
 
